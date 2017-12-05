@@ -1,0 +1,14 @@
+[
+  {
+    "id": 123,
+    "type": "YEAH",
+    "vin": "WUT",
+    "carState": "OK"
+  },
+  {
+    "id": 321,
+    "type": "HAH",
+    "vin": "NOPE",
+    "carState": "KO"
+  }
+]
